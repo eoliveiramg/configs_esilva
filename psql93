@@ -1,0 +1,3 @@
+#Postgreesql-9.3
+
+sudo apt-get install postgresql-client-common=154.pgdg12.4+1 postgresql-common=154.pgdg12.4+1 postgresql-9.3
